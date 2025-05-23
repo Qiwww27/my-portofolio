@@ -6,7 +6,7 @@ const HomePage = () => {
   return (
     <main className="min-h-screen bg-gray-900 p-8">
       <section className="max-w-3xl mx-auto text-center">
-        <h1 className="text-4xl font-bold text-white mb-4">Hi, I'm Rizky 👋</h1>
+        <h1 className="text-4xl font-bold text-white mb-4">Hi, I'm Qyy 👋</h1>
         <p className="text-lg text-gray-300 mb-8">
           I'm a Full Stack Developer with a passion for building beautiful and
           functional web applications.
